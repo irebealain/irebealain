@@ -9,7 +9,7 @@
 I like being creative and building new things. I enjoy a challenge and am always eager to learn and grow in the ever-evolving field of technology.  
 My passion lies in turning ideas into reality through code, whether it's frontend development or deep dives into backend logic.
 
---
+
 
 ## 💻 Tech Stack
 
@@ -46,7 +46,7 @@ My passion lies in turning ideas into reality through code, whether it's fronten
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
---
+
 
 ### ☁️ Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,7 +55,7 @@ My passion lies in turning ideas into reality through code, whether it's fronten
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
---
+
 
 ## 📍 Location  
 📍 Kigali, Rwanda  
